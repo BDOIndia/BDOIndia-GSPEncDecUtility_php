@@ -1,6 +1,9 @@
 # BDOIndia-GSPEncDecUtility_php
 PHP function for BDO GSP - ASP handshake
 
+### GSPpublicKey.pem
+Certificate file will be provided by BDO GSP Team
+
 ## Response parameters
 1. gsp_auth_token
 2. expiry
